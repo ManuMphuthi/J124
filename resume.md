@@ -8,3 +8,15 @@ Intro to Data Journalism Markdown practice resume
 * Fluent in English and French, intermediate Spanish
 * Microsoft Word, Google Sheets, Microsoft Powerpoint, GitHub, programming in R
 * Strong analytical and writing skills 
+
+# # Extra credit
+| Employer | Job Description|
+| --------------- | --------------- | 
+| Jansons Trading  | * Logistics assistant                  |
+|                  | * Filing, verifying paperwork          |
+| Disabled Students Program at UC Berkeley  | * Wrote down notes from lecture for disabled students in my class|
+|                                           | * Demonstrates strong attention to detail and good time management|
+| Puma Energy                               | * Assisted in designing Puma Energy's new website cnfiguration
+|                                           | * Data analysis 
+|                                           | * Editing and reviewing Puma Energy's 20222 Sustainability Report| 
+
